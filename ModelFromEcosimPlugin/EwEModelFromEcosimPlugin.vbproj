@@ -97,7 +97,7 @@
     <None Update="UserGuide\EwE model from time step.pdf">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <Pack>true</Pack>
-      <PackagePath>contentFiles\any\any\</PackagePath>
+      <PackagePath>contentFiles\any\net48\</PackagePath>
       <PackageCopyToOutput>true</PackageCopyToOutput>
     </None>
     <None Update="My Project\Application.myapp">
