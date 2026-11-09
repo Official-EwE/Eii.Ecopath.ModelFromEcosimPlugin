@@ -96,6 +96,9 @@
   <ItemGroup>
     <None Update="UserGuide\EwE model from time step.pdf">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Pack>true</Pack>
+      <PackagePath>contentFiles\any\any\</PackagePath>
+      <PackageCopyToOutput>true</PackageCopyToOutput>
     </None>
     <None Update="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
